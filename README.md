@@ -1,5 +1,7 @@
 # FRAME
 
+![FRAME logo](FRAME-logo.png)
+
 **A governance framework for enterprise AI deployment**
 
 FRAME is a domain-agnostic governance framework for organisations deploying AI systems in production. It provides a structured approach to defining, operating, and evaluating AI initiatives across enterprise environments, with particular application to autonomous and agentic AI deployments.
