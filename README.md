@@ -1,6 +1,6 @@
 # FRAME
 
-![FRAME logo](FRAME-logo.png)
+<img src="FRAME-logo.png" alt="FRAME logo" width="200">
 
 **A governance framework for enterprise AI deployment**
 
